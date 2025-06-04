@@ -81,7 +81,7 @@ git add .
 
 <br>
 
-![texto](https://github.com/lucas-dziurza/workshop-web/blob/main/Prints/tutorial-git8.png)
+![texto](https://github.com/lucas-dziurza/workshop-web/blob/main/Prints/tutorial-git11.png)
 
 ```
 git remote add origin https://github.com/seu-user/seu-repositorio.git
