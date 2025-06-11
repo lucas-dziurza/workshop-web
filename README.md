@@ -13,10 +13,10 @@ Como é um workshop introdutório, vamos passar pelos principais tópicos para q
 
 # 🚀 Vamos lá?!
 
-# TUTORIAL CONTA GITHUB
+# ![TUTORIAL CONTA GITHUB](https://github.com/lucas-dziurza/workshop-web/blob/main/1_tutorial-creating-github.md)
 
 # ![TUTORIAL VSCODE](https://github.com/lucas-dziurza/workshop-web/blob/main/Install-VSCode.md)
 
-# TUTORIAL USANDO VSCODE + LIVE SERVER
+# ![TUTORIAL USANDO VSCODE + LIVE SERVER](https://github.com/lucas-dziurza/workshop-web/blob/main/3_tutorial-using-vscode.md)
 
-# GIT
+# ![TUTORIAL USANDO GIT](https://github.com/lucas-dziurza/workshop-web/blob/main/4_tutorial-using-git.md)
